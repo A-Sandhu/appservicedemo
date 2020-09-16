@@ -7,7 +7,7 @@ on:
 
 env:
   AZURE_WEBAPP_NAME: webapp16092020
-  AZURE_WEBAPP_PATH: '.'
+  AZURE_WEBAPP_PATH: '.' 
   DOTNET_VERSION: '3.1.402'
 
 jobs:
